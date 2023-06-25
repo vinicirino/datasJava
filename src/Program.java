@@ -109,6 +109,9 @@ public class Program {
 		
 		Duration t1 = Duration.between(pastWeekI, nextWeekI);
 		System.out.println("t1 = " +t1.toDays());
+		
+
+		System.out.println("------------FIM----------------");
  		
 		
 	}
