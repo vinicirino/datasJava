@@ -111,7 +111,7 @@ public class Program {
 		System.out.println("t1 = " +t1.toDays());
 		
 
-		System.out.println("------------FIM----------------");
+		System.out.println("---------------------------");
  		
 		
 	}
